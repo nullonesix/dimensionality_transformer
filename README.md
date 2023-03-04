@@ -6,4 +6,5 @@ around the local minima. However, if the model uses all dimensions immediately i
 dimensions on increased precision, instead of providing new pathways for local minima that might
 only be encountered later on during training. Therefore, dimensionality growth is progressively
 introduced by zeroing out large parts of early gradients and smaller parts of later gradients.
--- nullonesix
+
+The same technique can be applied to any kind of neural network.
