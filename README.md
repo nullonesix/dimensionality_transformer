@@ -1,6 +1,6 @@
 # Dimensionality Transformer
 
-We increase at dimensionality with every epoch. The reasoning being that optimization techniques
+We increase the dimensionality with every epoch. The reasoning being that optimization techniques
 can get trapped in local minima. An increase in the dimensionality provides new pathways to move
 around the local minima. However, if the model uses all dimensions immediately it might waste
 dimensions on increased precision, instead of providing new pathways for avoiding local minima that might
