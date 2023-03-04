@@ -13,6 +13,7 @@ As a preliminary test we compare the perplexities on a short language modelling 
 
 # Without Dimensionality Growth:
 
+
 -----------------------------------------------------------------------------------------
 | end of epoch   3 | time: 38.23s | valid loss  5.64 | valid ppl   281.95
 -----------------------------------------------------------------------------------------
@@ -21,6 +22,7 @@ As a preliminary test we compare the perplexities on a short language modelling 
 =========================================================================================
 
 # With Dimensionality Growth:
+
 
 -----------------------------------------------------------------------------------------
 | end of epoch   3 | time: 37.22s | valid loss  5.57 | valid ppl   261.23
